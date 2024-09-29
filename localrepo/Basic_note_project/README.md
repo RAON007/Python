@@ -4,6 +4,7 @@ ls
 clear
 pwd ("WORKING DIRECTRY")
 ls -a / -Force (show hidden file)
+git log (for history)
 
 
 Configure GIt
