@@ -27,8 +27,9 @@ Add & Commit
 git add <- File name -> TAB /  git add . (all file add in one time)
 git commit -m "Some Message"
 Push Command :
-git push origin main
-
+git push origin main*
+* Shortcut = git push -u origin main ( for all save in main origin)
+             git push
 
 Init Command :
 git init  " Used to create a new repo"
